@@ -44,7 +44,7 @@ Statistics | Hypothesis Testing | Regression | Machine Learning |
 </p> -->
 
 ##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-omkar-s-6b3007165-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-s-6b3007165/)](https://www.linkedin.com/in/omkar-s-6b3007165/)
+[![Linkedin Badge](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-s-6b3007165/)](https://www.linkedin.com/in/omkar-s-6b3007165/)
 [![Gmail Badge](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivamshinde92722@gmail.com)](mailto:shivamshinde92722@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/)
 
