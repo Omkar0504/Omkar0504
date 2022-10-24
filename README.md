@@ -4,18 +4,16 @@
 
  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Power BI**.
+- 🌱 I’m currently learning **Data Science**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- ⚡ Fun fact **I like to ride my bicycle, play games and listen to songs**.
+- ⚡ Fun fact **I like to play basketball, play games and listen to songs**.
  
-- 💬 Ask me about making attractive visualizations,ML, DL and other tech related stuff.
-
 
 ## Topics
 
-Statistics | Data Visualization | Machine Learning | Deep Learning |  Time Series Analysis | Website Development
+Statistics | Hypothesis Testing | Regression | Machine Learning |
 
 
 ## Tech & Tools Preference
