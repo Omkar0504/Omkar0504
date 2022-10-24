@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Omkar0504/Omkar0504/blob/main/WhatsApp%20Image%202022-10-13%20at%208.42.24%20PM.jpeg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/Omkar0504/Omkar0504/blob/main/WhatsApp%20Image%202022-10-13%20at%208.42.24%20PM.jpeg" width="30%" title="Intro Card" alt="Intro Card">
 </p>
 
  ## 🙋‍♂️ About Me
