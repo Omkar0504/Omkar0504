@@ -43,11 +43,6 @@ Statistics | Hypothesis Testing | Regression | Machine Learning |
 <a href="https://github.com/omkar0504/github-readme-activity-graph"><img alt="Omkar Shelar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omkar0504&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p> -->
 
-##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-shivamds92722-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-s-6b3007165/)](https://www.linkedin.com/in/omkar-s-6b3007165/)
-[![Gmail Badge](https://img.shields.io/badge/-shivamshinde92722@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivamshinde92722@gmail.com)](mailto:shivamshinde92722@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-@me_shivam__-e4405f?style=flat&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/me_shivam__/)](https://www.instagram.com/me_shivam__/)
-
 
 
 
@@ -55,8 +50,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [ShivamShinde](https://github.com/shivamshinde123)
+:star: From [OmkarShelar](https://github.com/omkar0504)
 
 
-https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmVbFrZe3RSulqv8y4e4hjw%3D%3D
 
