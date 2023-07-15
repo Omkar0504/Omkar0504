@@ -4,7 +4,7 @@
 
  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python, C++, & Data Science**.
+- 🌱 I’m currently learning **Python, C#, & MySQL**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
